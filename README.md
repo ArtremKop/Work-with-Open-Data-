@@ -1,1 +1,2 @@
-# Work-with-Open-Data-
+pip install requests pandas matplotlib
+python eu_salaries.py
